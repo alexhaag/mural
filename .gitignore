@@ -1,1 +1,10 @@
 node_modules
+dist
+tmp
+.env
+.eslintrc.json
+.gitignore
+prettier.config.js
+ontsconfig.json
+yarn.lock
+.editorconfig
